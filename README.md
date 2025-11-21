@@ -1,9 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vikas Talreja
 =====================================================================================================================================
 
-Third Year Engineering Student
-------------------------------
-
 * 🌍  I'm based in Mumbai
 * 🖥️  See my portfolio at [MyPortfolio](http://vikastalreja.vercel.app/)
 * ✉️  You can contact me at [vikazztalreja@gmail.com](mailto:vikazztalreja@gmail.com)
